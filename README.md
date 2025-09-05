@@ -1,4 +1,4 @@
-# Resume
+# project
 This is my first git repository 
 <br>
 author : priyanshu dwivedi
